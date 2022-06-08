@@ -2,7 +2,7 @@
 
 Dans le cadre de mon mini-mémoire de M1 du master Humanités numériques de l'Ecole Nationale des Chartes, j'ai décidé d'étudier le traitement du boulangisme par la presse française, en me focalisant néanmoins pour ce mini-mémoire sur les textes océrisés du journal Le Matin au cours de l'année 1887. Cette première ébauche a pour but d'être élargie dans le temps (1886-1890) et de prendre en compte plusieurs journaux, au moins les trois plus grands quotidiens de l'époque, à savoir Le Journal, Le Petit Journal et Le Parisien.
 
-## L'organisation du dépot
+## L'organisation du dépt
 Le dépôt est composé de deux dossiers plus un fichier, mon mini-mémoire. Le premier dossier contient l'ensemble des corpus utilisés, et le second l'ensemble des scripts commentés dans des fichiers .py et des notebooks contenant les sorties réalisées.
 
 **Corpora**  --> contient l'ensemble des corpus dans quatre sous-dossier : le corpus des textes bruts issus de l'OCR de Gallica ; le même corpus nettoyé et pré-traité ; les deux corpus utilisés pour TXM, l'un avec les textes bruts, l'autre avec les textes nettoyés et pré-traités, et, dans chacun de ces deux sous-dossiers, le fichier "metadat.csv", permettant aux deux corpus d'être directement importés dans TXM.
